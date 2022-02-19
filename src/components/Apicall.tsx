@@ -2,6 +2,7 @@ import axios from "axios";
 import React, { useState, useEffect } from "react";
 import { StyleSheet,Text,ScrollView,View,Button,Image, Platform,} from "react-native";
 //https://www.freecodecamp.org/news/how-to-use-axios-with-react/
+//https://blog.logrocket.com/using-axios-react-native-manage-api-requests/
 
 //const baseURL = "https://jsonplaceholder.typicode.com/posts/1";
 const baseUrl = "https://reqres.in";
